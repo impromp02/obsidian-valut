@@ -1,22 +1,18 @@
 {
   "main": {
-    "id": "8253b45f343ce394",
+    "id": "8bbf0390dbe606dc",
     "type": "split",
     "children": [
       {
-        "id": "7256fef80b0d1398",
+        "id": "03e13da3015705f2",
         "type": "tabs",
         "children": [
           {
-            "id": "259257464f814214",
+            "id": "72c6f8ba2ff1cf28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "hereUGO Business Plan/Traditional Business Plan.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -25,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a38ff6b876aa1265",
+    "id": "eed63b71dc9560a0",
     "type": "split",
     "children": [
       {
-        "id": "42a45f05a4059227",
+        "id": "81b408e623911c41",
         "type": "tabs",
         "children": [
           {
-            "id": "7a83a66abd7d880b",
+            "id": "74341a1600f37558",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +39,7 @@
             }
           },
           {
-            "id": "f686bfc49bc714ec",
+            "id": "5900ed34d115b5dc",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +54,7 @@
             }
           },
           {
-            "id": "39796ebca9d4d47a",
+            "id": "3216766eb871272d",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -72,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "4cb10577922616a1",
+    "id": "78a4d9f162155382",
     "type": "split",
     "children": [
       {
-        "id": "eacc0d2b3b2312a3",
+        "id": "9fe4238137d875cf",
         "type": "tabs",
         "children": [
           {
-            "id": "313fb643d37ccb0f",
+            "id": "29ba3490beeda02c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hereUGO Business Plan/Traditional Business Plan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +92,18 @@
             }
           },
           {
-            "id": "ebfa56005883685a",
+            "id": "9103791fcbc64c0b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hereUGO Business Plan/Traditional Business Plan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "f33f674fd8f4a07c",
+            "id": "c869b94edc9cc05a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,13 +114,11 @@
             }
           },
           {
-            "id": "98778498efc8106b",
+            "id": "df126a3eba7d1161",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "hereUGO Business Plan/Traditional Business Plan.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,6 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "259257464f814214",
-  "lastOpenFiles": [
-    "hereUGO Business Plan/Business Plan.md",
-    "hereUGO Business Plan/Choices.md",
-    "Genesys.md"
-  ]
+  "active": "72c6f8ba2ff1cf28",
+  "lastOpenFiles": []
 }
